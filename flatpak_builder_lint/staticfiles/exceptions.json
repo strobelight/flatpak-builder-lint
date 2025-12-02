@@ -6280,7 +6280,7 @@
     "org.kde.hana": {
         "finish-args-home-filesystem-access": "Needs to save images in an user defined folder"
     },
-    "org.xtrkcad.xtrkcad": {
+    "io.sourceforge.xtrkcad_fork.xtrkcad": {
         "finish-args-home-filesystem-access": "Needed since the app reads/writes track plans stored anywhere on users home directory"
     }
 }
