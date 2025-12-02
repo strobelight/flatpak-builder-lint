@@ -6281,6 +6281,6 @@
         "finish-args-home-filesystem-access": "Needs to save images in an user defined folder"
     },
     "org.xtrkcad.xtrkcad": {
-        "finish-args-home-filesystem-access": "Needed since the app can read/write track plans stored anywhere, and stores preferences in ~/.xtrkcad"
+        "finish-args-home-filesystem-access": "Needed since the app reads/writes track plans stored anywhere on users home directory"
     }
 }
